@@ -10,10 +10,14 @@
   
 ---
 
-### :woman_technologist: About Me :  
+### :woman_technologist: About Me :woman_technologist:
+
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 📚 Courses and Certifications  📚
+---
+
+### :hammer_and_wrench: Languages and Tools :hammer_and_wrench:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
@@ -41,7 +45,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats :fire:
 [![lili's GitHub stats](https://github-readme-stats.vercel.app/api?username=liliana-ilut&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/liliana-ilut/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=liliana-ilut&theme=tokyonight)](https://git.io/streak-stats)
