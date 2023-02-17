@@ -2,19 +2,15 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div id="badges" align="center"> 
-  <a href="https://www.linkedin.com/in/liliana-ilut/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <p><img src="https://komarev.com/ghpvc/?username=liliana-ilut&style=flat-square&color=blue" alt=""/></p>
  <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   </div>
   
+---
+
+### :woman_technologist: About Me :  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -40,20 +36,29 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
----
 
-### :woman_technologist: About Me :
 
 
 ---
 
 ### :fire: My Stats :
-[![lili's GitHub stats](https://github-readme-stats.vercel.app/api?username=liliana-ilut&hide=stars,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/liliana-ilut/github-readme-stats)
+[![lili's GitHub stats](https://github-readme-stats.vercel.app/api?username=liliana-ilut&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/liliana-ilut/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=liliana-ilut&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliana-ilut&layout=compact&theme=tokyonight)](https://github.com/liliana-ilut/github-readme-stats)
 
+---
+
+###  Contact me :
+<div id="badges" align="center"> 
+  <a href="https://www.linkedin.com/in/liliana-ilut/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <p><img src="https://komarev.com/ghpvc/?username=liliana-ilut&style=flat-square&color=blue" alt=""/></p>
+</div>  
+
+<!--
 ---
 
 ### :trophy: My trophies :
