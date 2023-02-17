@@ -11,10 +11,19 @@
 ---
 
 ### :woman_technologist: About Me :woman_technologist:
+ * :eyes: I am an aspiring Data Scientist.
+ * :lab_coat: I have a background in healthcare (cancer research) and started transitioning to Data Science in 2020.
+ * 📉 I like to find the story within data.
+
 
 ---
 
 ### 📚 Courses and Certifications  📚
+ * Data Science and Visualization Bootcamp - Northwestern University 
+ * The Complete SQL Bootcamp: Go from Zero to Hero - Udemy 
+ * 100 Days of Code: The complete Python Bootcamp- Udemy (in progress)
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :hammer_and_wrench:
@@ -54,7 +63,7 @@
 
 ---
 
-###  Contact me :
+### 📫 Contact me 📫
 <div id="badges" align="center"> 
   <a href="https://www.linkedin.com/in/liliana-ilut/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
