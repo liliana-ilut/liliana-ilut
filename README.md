@@ -48,6 +48,7 @@
 ---
 
 ### :fire: My Stats :
+[![lili's GitHub stats](https://github-readme-stats.vercel.app/api?username=liliana-ilut)](https://github.com/liliana-ilut/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=liliana-ilut)](https://git.io/streak-stats)
 
@@ -56,7 +57,7 @@
 ---
 
 ### :trophy: My trophies :
-[![trophy](https://github-profile-trophy.vercel.app/?username=liliana-ilut)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=liliana-ilut&hide=stars,issues)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **liliana-ilut/liliana-ilut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
