@@ -53,6 +53,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliana-ilut&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### :trophy: My trophies :
+[![trophy](https://github-profile-trophy.vercel.app/?username=liliana-ilut)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **liliana-ilut/liliana-ilut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
