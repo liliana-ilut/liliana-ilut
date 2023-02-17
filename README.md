@@ -14,6 +14,7 @@
  * :eyes: I am an aspiring Data Scientist.
  * :lab_coat: I have a background in healthcare (cancer research) and started transitioning to Data Science in 2020.
  * 📉 I like to find the story within data.
+ * 🔖 Check out my [portfolio](https://liliana-ilut.github.io/).
 
 
 ---
@@ -64,7 +65,8 @@
 ---
 
 ### 📫 Contact me 📫
-<div id="badges" align="center"> 
+:e-mail: liliana.ilut@gmail.com :e-mail:
+<div id="badges" align="left"> 
   <a href="https://www.linkedin.com/in/liliana-ilut/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
