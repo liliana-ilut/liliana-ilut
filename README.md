@@ -48,11 +48,11 @@
 ---
 
 ### :fire: My Stats :
-[![lili's GitHub stats](https://github-readme-stats.vercel.app/api?username=liliana-ilut)](https://github.com/liliana-ilut/github-readme-stats)
+[![lili's GitHub stats](https://github-readme-stats.vercel.app/api?username=liliana-ilut&hide=stars,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/liliana-ilut/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=liliana-ilut)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=liliana-ilut&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliana-ilut&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliana-ilut&layout=compact&theme=tokyonight)](https://github.com/liliana-ilut/github-readme-stats)
 
 ---
 
